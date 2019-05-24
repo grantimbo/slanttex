@@ -164,7 +164,7 @@ $(function() {
 	});
 
 
-	$(document).on('click', '.folio-nav a', function(e) {
+	$(document).on('click', '.folio-nav ul.sub-menu a', function(e) {
 		loadPage();
 		e.preventDefault();
 	});
