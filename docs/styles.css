@@ -425,7 +425,7 @@ body.js .pagination .next {
 }
 .welcome-scene {
 	position: relative;
-	background: url(../slanttex-wordpress-theme/img/trees_mountain.png) 133% 97% no-repeat;
+	background: url(https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/img/trees_mountain.png) 133% 97% no-repeat;
 	max-width: 920px;
 	max-height: 500px;
 	height: 100%;
@@ -435,7 +435,7 @@ body.js .pagination .next {
 	position: absolute;
 	top: 9%;
 	left: 6%;
-	background: url(../slanttex-wordpress-theme/img/cloud-01.png) no-repeat;
+	background: url(https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/img/cloud-01.png) no-repeat;
 	width: 129px;
 	height: 89px;
 	-webkit-animation: cloud 10s infinite linear;
@@ -446,7 +446,7 @@ body.js .pagination .next {
 	top: 22%;
 	left: auto;
 	right: 3%;
-	background: url(../slanttex-wordpress-theme/img/cloud-02.png) no-repeat;
+	background: url(https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/img/cloud-02.png) no-repeat;
 	width: 132px;
 	height: 78px;
 	-webkit-animation: cloudtwo 8s infinite linear;
@@ -475,7 +475,7 @@ body.js .pagination .next {
 }
 .type {
 	position: absolute;
-	background: url(../slanttex-wordpress-theme/img/type.png) no-repeat;
+	background: url(https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/img/type.png) no-repeat;
 	background-position: 0 0;
 	cursor: pointer;
 }
@@ -511,7 +511,7 @@ body.js .pagination .next {
 	left: 23%;
 	z-index: 0;
 }
-.type:hover {background: url(../slanttex-wordpress-theme/img/type.png) no-repeat;}
+.type:hover {background: url(https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/img/type.png) no-repeat;}
 .type.typo:hover {background-position: -318px -194px;}
 .type.threedee:hover {background-position: -276px -9px;}
 .type.motion:hover {background-position: -434px -400px;}
@@ -1244,20 +1244,20 @@ body.archive.tag .portfolio-subhead h1 span {
 
 @font-face {
 	font-family: 'gotham_bold';
-	src: url('../slanttex-wordpress-theme/fonts/gotham/gotham_bold.eot');
-	src: local('☺'), url('../slanttex-wordpress-theme/fonts/gotham/gotham_bold.woff') format('woff'), 
-					url('../slanttex-wordpress-theme/fonts/gotham/gotham_bold.ttf') format('truetype'), 
-					url('../slanttex-wordpress-theme/fonts/gotham/gotham_bold.svg') format('svg');
+	src: url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/gotham/gotham_bold.eot');
+	src: local('☺'), url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/gotham/gotham_bold.woff') format('woff'), 
+					url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/gotham/gotham_bold.ttf') format('truetype'), 
+					url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/gotham/gotham_bold.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'gotham_book';
-	src: url('../slanttex-wordpress-theme/fonts/gotham/gotham_book.eot');
-	src: local('☺'), url('../slanttex-wordpress-theme/fonts/gotham/gotham_book.woff') format('woff'), 
-					url('../slanttex-wordpress-theme/fonts/gotham/gotham_book.ttf') format('truetype'), 
-					url('../slanttex-wordpress-theme/fonts/gotham/gotham_book.svg') format('svg');
+	src: url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/gotham/gotham_book.eot');
+	src: local('☺'), url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/gotham/gotham_book.woff') format('woff'), 
+					url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/gotham/gotham_book.ttf') format('truetype'), 
+					url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/gotham/gotham_book.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -1270,11 +1270,11 @@ body.archive.tag .portfolio-subhead h1 span {
 
 @font-face {
 	font-family: 'icomoon';
-	src:url('../slanttex-wordpress-theme/fonts/icomoon/icomoon.eot?-6llbij');
-	src:url('../slanttex-wordpress-theme/fonts/icomoon/icomoon.eot?#iefix-6llbij') format('embedded-opentype'),
-		url('../slanttex-wordpress-theme/fonts/icomoon/icomoon.woff?-6llbij') format('woff'),
-		url('../slanttex-wordpress-theme/fonts/icomoon/icomoon.ttf?-6llbij') format('truetype'),
-		url('../slanttex-wordpress-theme/fonts/icomoon/icomoon.svg?-6llbij#icomoon') format('svg');
+	src:url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/icomoon/icomoon.eot?-6llbij');
+	src:url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/icomoon/icomoon.eot?#iefix-6llbij') format('embedded-opentype'),
+		url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/icomoon/icomoon.woff?-6llbij') format('woff'),
+		url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/icomoon/icomoon.ttf?-6llbij') format('truetype'),
+		url('https://raw.githubusercontent.com/grantimbo/slanttex/master/slanttex-wordpress-theme/fonts/icomoon/icomoon.svg?-6llbij#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
