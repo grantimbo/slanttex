@@ -1,8 +1,3 @@
-var themeUrl = "http://localhost/slanttex/wp-content/themes/slanttex";
-var siteUrl = "http://localhost/slanttex";
-
-
-
 // ---------------------------
 // Grant Imbo | grantimbo.com
 // ---------------------------
